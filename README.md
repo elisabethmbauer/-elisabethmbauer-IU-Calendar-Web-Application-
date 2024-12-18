@@ -55,7 +55,7 @@ npm start
 
 ```bash
 cd backend
-npm start
+node index.js
 ```
 
 ### 3. Start browser and open the following pages:
